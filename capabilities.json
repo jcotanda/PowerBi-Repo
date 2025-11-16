@@ -1,0 +1,55 @@
+{
+  "dataRoles": [
+    {
+      "displayName": "Campo",
+      "name": "category",
+      "kind": "Grouping"
+    }
+  ],
+  "objects": {
+    "dataPoint": {
+      "properties": {
+        "fill": {
+          "type": {
+            "fill": {
+              "solid": {
+                "color": true
+              }
+            }
+          }
+        },
+        "fillRule": {
+          "type": {
+            "fill": {}
+          }
+        },
+        "fontSize": {
+          "type": {
+            "formatting": {
+              "fontSize": true
+            }
+          }
+        }
+      }
+    }
+  },
+   "dataViewMappings": [
+    {
+      "conditions": [
+        {
+          "category": {
+            "max": 1
+          }
+        }
+      ],
+      "categorical": {
+        "categories": {
+          "for": {
+            "in": "category"
+          }
+        }
+      }
+    }
+  ],
+  "privileges": []
+}

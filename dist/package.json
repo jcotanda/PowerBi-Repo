@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Javier","email":"jcotanda(at)outlook(dot)com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/prototypeSlicer.pbiviz.json"
+			}
+		],
+		"visual": {"name":"customSlicerPrototype","displayName":"Slicer Prototype","guid":"prototypeSlicer","visualClassName":"Visual","version":"1.0.0.0","description":"This is a custom slicer for H.io. Under construction.","supportUrl":"https://github.com/jcotanda/PowerBi-Repo","gitHubUrl":"https://github.com/jcotanda/PowerBi-Repo"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
