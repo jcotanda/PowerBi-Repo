@@ -1,5 +1,5 @@
 
-# ⭐ Powerbi Repo
+# ⭐ PowerBi Repo
 
 This is a repository of a bunch of proyects and custom visuals I have created. 
 
